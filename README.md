@@ -40,23 +40,40 @@ Thank you for visiting my profile. Let’s create something great together!
   
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects (Github Link)
 
 - 💧 **Mini Farm Automation System**  
   Intelligent small-scale farm system using ESP32 to automate watering and lighting for plants.  
-  🔗 [GitHub Link](https://github.com/teeprakorn1/Mini_Farm_Project)
+  🔗 [Mini_Farm_Project](https://github.com/teeprakorn1/Mini_Farm_Project)
 
 - 🐟 **Betta Fish E-commerce Website**  
   Thai Betta fish sales website with admin management system built on ASP.NET.  
-  🔗 [GitHub Link](https://github.com/teeprakorn1/BettaFish_Project)
+  🔗 [BettaFish_Project](https://github.com/teeprakorn1/BettaFish_Project)
 
 - 📱 **DuangDee Android App (Kotlin)**  
   Fortune-telling app featuring palm reading, tarot, horoscope with Firebase OAuth and encrypted APIs.  
-  🔗 [GitHub Link](https://github.com/teeprakorn1/DuangDee_Android_Kotlin)
+  🔗 [DuangDee_Android_Kotlin](https://github.com/teeprakorn1/DuangDee_Android_Kotlin)
+  🔗 [DuangDee_Web_React](https://github.com/teeprakorn1/DuangDee_Web_React)
+  🔗 [DuangDee_Server_Nodejs](https://github.com/teeprakorn1/Duangdee_Nodejs)
+  🔗 [DuangDee_Bot_AutoTest](https://github.com/teeprakorn1/Duangdee_AutoTest)
 
 - 🚀 **PM2 Flutter Project**  
   Cross-platform app showing real-time and forecasted PM2.5 air quality data with AI prediction.  
-  🔗 [GitHub Link](https://github.com/teeprakorn1/pm2_flutter_project)
+  🔗 [PM2.5_Application_Flutter](https://github.com/teeprakorn1/pm2_flutter_project)
+  🔗 [PM2.5_Web_React](https://github.com/teeprakorn1/PM2_Web_React)
+  🔗 [PM2.5_Server_Nodejs](https://github.com/teeprakorn1/PM2_API_Node.js)
+  🔗 [PM2.5_Bot_Python](https://github.com/teeprakorn1/PM2_Python_Bot)
+
+- 🔄 **Infix to Postfix Converter (Java)**  
+  Java console app for converting infix expressions to postfix using stack-based parsing.
+  Useful for learning operator precedence and expression evaluation.  
+  🔗 [InfixToPostfix_Conversion](https://github.com/teeprakorn1/InfixToPostfix_Covertion)
+
+- 🧠 **Depression Simple Android App**  
+  Mental health screening app predicting Depression and Bipolar Disorders using an AI model.
+  Includes Kotlin frontend and Flask backend API with ML model integration.  
+  🔗 [DepressionSimple_Android](https://github.com/teeprakorn1/Depression_Android)
+  🔗 [DepressionSimple_API_Model](https://github.com/teeprakorn1/Depression_API_Model)
 
 ---
 
