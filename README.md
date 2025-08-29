@@ -64,6 +64,12 @@ Thank you for visiting my profile. Let’s create something great together!
   🔗 [PM2.5_Server_Nodejs](https://github.com/teeprakorn1/PM2_API_Node.js)
   🔗 [PM2.5_Bot_Python](https://github.com/teeprakorn1/PM2_Python_Bot)
 
+- 🧑‍⚕️ **Doctor Simple Web Application**  
+  A simple patient-doctor management and appointment system, with doctor search by name or specialty and availability management.  
+  Built with React.js, Node.js/Express, MySQL, featuring JWT-based login and secure APIs.  
+  🔗 [Doctor_Web_React](https://github.com/teeprakorn1/doctor_react)
+  🔗 [Doctor_Server_Nodejs](https://github.com/teeprakorn1/doctor_nodejs)
+
 - 🔄 **Infix to Postfix Converter (Java)**  
   Java console app for converting infix expressions to postfix using stack-based parsing.
   Useful for learning operator precedence and expression evaluation.  
