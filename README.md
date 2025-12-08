@@ -226,21 +226,13 @@ Console application demonstrating stack-based parsing for converting infix expre
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teeprakorn1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teeprakorn1&layout=compact&theme=radical)
-
----
-
 ## 🏆 Achievements & Certifications
 
 - 🎓 **Senior Project (Capstone)** - Student Activity Tracking and Evaluation System (2024-2025)
 - 🔬 **Research Publication** - Image Forgery Detection in Student Activities (Under Review)
 - 💻 **Full-Stack Development** - 8+ production-grade projects completed
 - 🤖 **AI/ML Integration** - 83.1% accuracy in deepfake detection
-- 🔒 **Security Practices** - OWASP Top 10 compliance in all projects
+- 🔒 **Security Practices** - OWASP Top 10 compliance in some projects
 - 🌐 **Production Deployment** - Successfully deployed enterprise systems on cloud infrastructure
 
 ---
