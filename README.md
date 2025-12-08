@@ -193,7 +193,18 @@ Thai Betta fish sales website with comprehensive admin management system, invent
 
 ---
 
-### 7. 💧 Mini Farm Automation System
+### 7. 🛒 Java Swing Store Management System
+**Tech Stack:** Java Swing, SQL Server, JDBC
+
+Amateur desktop POS application featuring user authentication, product catalog management, shopping cart functionality, and admin dashboard. Built as an educational project for Computer Programming II course.
+
+- 🔗 [Repository](https://github.com/teeprakorn1/desktop_application_java_swing)
+
+**Features:** Customer/admin authentication, multi-category product browsing (Stationery, Books, Sports), real-time price calculation, shopping cart with quantity management, product inventory management, database-driven architecture
+
+---
+
+### 8. 💧 Mini Farm Automation System
 **Tech Stack:** ESP32, C++, IoT Sensors, Blynk, Google Sheets API
 
 Intelligent small-scale farm system using ESP32 microcontroller to automate watering schedules and lighting control based on environmental sensors with cloud integration.
@@ -204,7 +215,7 @@ Intelligent small-scale farm system using ESP32 microcontroller to automate wate
 
 ---
 
-### 8. 🎮 Arduino LED Matrix Display System
+### 9. 🎮 Arduino LED Matrix Display System
 **Tech Stack:** ESP8266 (NodeMCU), C++, MAX7219 Driver, Embedded Systems
 
 Amateur 32×8 LED matrix animation display featuring scrolling text with custom font rendering, synchronized pattern animations, and modular code architecture for educational purposes.
@@ -215,7 +226,7 @@ Amateur 32×8 LED matrix animation display featuring scrolling text with custom 
 
 ---
 
-### 9. 🔄 Infix to Postfix Converter
+### 10. 🔄 Infix to Postfix Converter
 **Tech Stack:** Java, Data Structures (Stack)
 
 Console application demonstrating stack-based parsing for converting infix expressions to postfix notation with operator precedence handling.
