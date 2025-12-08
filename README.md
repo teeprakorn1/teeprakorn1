@@ -194,17 +194,28 @@ Thai Betta fish sales website with comprehensive admin management system, invent
 ---
 
 ### 7. 💧 Mini Farm Automation System
-**Tech Stack:** ESP32, C++, IoT Sensors, MQTT
+**Tech Stack:** ESP32, C++, IoT Sensors, Blynk, Google Sheets API
 
-Intelligent small-scale farm system using ESP32 microcontroller to automate watering schedules and lighting control based on environmental sensors.
+Intelligent small-scale farm system using ESP32 microcontroller to automate watering schedules and lighting control based on environmental sensors with cloud integration.
 
 - 🔗 [Repository](https://github.com/teeprakorn1/Mini_Farm_Project)
 
-**IoT Features:** Real-time monitoring, automated irrigation, light scheduling, mobile alerts
+**IoT Features:** Real-time monitoring, automated irrigation, light scheduling, mobile alerts, cloud data logging
 
 ---
 
-### 8. 🔄 Infix to Postfix Converter
+### 8. 🎮 Arduino LED Matrix Display System
+**Tech Stack:** ESP8266 (NodeMCU), C++, MAX7219 Driver, Embedded Systems
+
+Amateur 32×8 LED matrix animation display featuring scrolling text with custom font rendering, synchronized pattern animations, and modular code architecture for educational purposes.
+
+- 🔗 [Repository](https://github.com/teeprakorn1/arduino_led_matrix)
+
+**Features:** Custom 5×7 font system with kerning, multi-matrix synchronization (4 modules), smooth scrolling animations, music note patterns, emoji animations, boat sailing effects, spiral LED fills, configurable timing controls, memory-optimized buffer management
+
+---
+
+### 9. 🔄 Infix to Postfix Converter
 **Tech Stack:** Java, Data Structures (Stack)
 
 Console application demonstrating stack-based parsing for converting infix expressions to postfix notation with operator precedence handling.
