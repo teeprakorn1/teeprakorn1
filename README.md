@@ -11,9 +11,9 @@
 
 ## 📋 About Me
 
-I'm a 4th-year Computer Science student at Rajamangala University of Technology Tawan-Ok (RMUTTO) with a deep passion for building scalable, intelligent software systems. My expertise spans full-stack development, AI/ML integration, cybersecurity, and IoT solutions.
+I'm a Computer Science graduate from Rajamangala University of Technology Tawan-Ok (RMUTTO), Chakrabongse Bhuvanarth Campus, with a strong passion for building scalable and intelligent software systems. My expertise spans full-stack development, AI/ML integration, cybersecurity, and IoT solutions.
 
-- 🎓 **University:** Rajamangala University of Technology Tawan-Ok (Chakrabongse Bhuvanarth Campus)
+- 🎓 **Education:** B.Sc. in Computer Science – Rajamangala University of Technology Tawan-Ok (Chakrabongse Bhuvanarth Campus)
 - 🔭 **Focus Areas:** Full-Stack Development, AI/ML, Cybersecurity, IoT
 - 🌱 **Interests:** Cloud Computing, Embedded Systems, Data Science
 - 📅 **DOB:** 21 December, 2003
