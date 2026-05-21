@@ -2,9 +2,9 @@
 
 <br>
 
-**Teepakorn Kumvong** · Full-Stack Developer · AI/ML Engineer · Cybersecurity Enthusiast
+**Teepakorn Kumvong** · Backend & Full-Stack Engineer · Secure Systems · Open Source Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;Automating+with+AI+agents;Securing+the+stack;From+cloud+to+embedded" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+backend+systems+%26+developer+tooling;Maintaining+open-source+AI+agent+platform;NestJS+%7C+gRPC+%7C+backend+architecture" alt="Typing Animation">
 
 <a href="mailto:teeprakorn.official@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"></a>
 <a href="https://www.linkedin.com/in/teepakorn-kumvong-487255374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"></a>
@@ -12,17 +12,13 @@
 <a href="https://www.facebook.com/toey.kumvong"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"></a>
 <a href="https://www.instagram.com/toey_aiyu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"></a>
 
-<img src="https://komarev.com/ghpvc/?username=teeprakorn1&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/teeprakorn1?style=flat-square&color=58a6ff&logo=github&label=Followers" alt="Followers">
-<img src="https://img.shields.io/github/stars/teeprakorn1?style=flat-square&color=58a6ff&logo=github&label=Stars" alt="Stars">
-
 </div>
 
 ## 👨‍💻 About Me
 
 > **Teepakorn Kumvong** · *aka ToeyAIYU* · Bangkok, Thailand 🇹🇭
 
-I'm a **Computer Science graduate** from Rajamangala University of Technology Tawan-Ok (RMUTTO), Chakrabongse Bhuvanarth Campus. I build **scalable and intelligent software systems** — from AI agent platforms to IoT automation. My expertise spans full-stack development, AI/ML integration, cybersecurity, and embedded systems.
+I'm a **Computer Science graduate** from Rajamangala University of Technology Tawan-Ok (RMUTTO) — currently working as a **Backend Developer** at S11 Group PCL and maintaining [**Aiyu Multi-Agent**](https://www.npmjs.com/package/aiyu-multi-agent), an open-source AI agent platform on npm. Focused on **backend systems, secure runtime, and developer tooling**.
 
 <table>
   <tr>
@@ -30,36 +26,84 @@ I'm a **Computer Science graduate** from Rajamangala University of Technology Ta
 
 ### 🎓 Education & Background
 - **B.Sc. in Computer Science** — RMUTTO, Chakrabongse Bhuvanarth Campus
-- **Focus Areas:** Full-Stack Development, AI/ML, Cybersecurity, IoT
-- **Interests:** Cloud Computing, Embedded Systems, Data Science
+- **Focus Areas:** Backend Architecture, Full-Stack Development, Secure Systems, AI Runtime
+- **Interests:** Developer Tooling, Cloud Computing, Open Source
+
+### 🎯 Current Focus
+```text
+🏗️  Working on NestJS + gRPC microservices
+🤖  Developing open-source AI agent tools
+🌱  Advancing Node.js & system design
+🔐  Exploring DevSecOps & security hardening
+📚  Researching image forgery detection
+```
+
+  </td>
+  <td valign="top" width="50%">
+
+### 🏆 Quick Stats
+- 💼 **Current Role:** Backend Developer @ S11 Group PCL
+- 🤖 **Open Source:** Aiyu Multi-Agent (npm published)
+- 🎓 **Capstone:** AI Deepfake Detection (83.1% accuracy)
+- 🌐 **DevOps:** CI/CD, Docker, npm publishing, semantic versioning
 
 ### 📫 Get in Touch
 - 📧 **Email:** [teeprakorn.official@gmail.com](mailto:teeprakorn.official@gmail.com)
 - 💼 **LinkedIn:** [Teepakorn Kumvong](https://www.linkedin.com/in/teepakorn-kumvong-487255374/)
 - 🐙 **GitHub:** [teeprakorn1](https://github.com/teeprakorn1)
-- 📘 **Facebook:** [toey.kumvong](https://www.facebook.com/toey.kumvong)
-
-  </td>
-  <td valign="top" width="50%">
-
-### 🎯 Current Focus
-```text
-🔭  Building open-source AI agent tools
-🌱  Learning advanced Node.js & system design
-🔐  Exploring cybersecurity & DevSecOps
-⚡  Creating IoT & embedded solutions
-📚  Researching image forgery detection
-```
-
-### 🏆 Quick Stats
-- 🤖 **Open Source:** Aiyu Multi-Agent (npm published)
-- 🎓 **Capstone:** AI Deepfake Detection (83.1% accuracy)
-- 💻 **Projects:** 10+ production-grade full-stack apps
-- 🌐 **DevOps:** CI/CD, npm publishing, semantic versioning
 
   </td>
   </tr>
 </table>
+
+---
+
+## 💼 Professional Experience
+
+### Backend Developer — S11 Group PCL | 2026–Present
+
+> **S11 Group PCL** (SET: S11) — A SET-listed motorcycle hire-purchase finance company operating across Bangkok, Central, Eastern, and Northeastern Thailand.
+
+Building and maintaining **NestJS microservices** for internal business operations.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**What I Build**
+- RESTful APIs and **gRPC microservices** with NestJS
+- File storage system with **S3 multipart upload** and streaming
+- Image processing pipeline (**sharp**, HEIC→WebP conversion)
+- Authentication & authorization (**JWT**, **Keycloak**, API key guards)
+- **Circuit Breaker** pattern for resilient inter-service communication
+
+  </td>
+  <td valign="top" width="50%">
+
+**Tech Stack**
+- **Runtime:** Node.js, Bun (package manager & build)
+- **Framework:** NestJS, gRPC + Protocol Buffers
+- **Storage:** S3-compatible (MinIO/Garage), Redis
+- **Observability:** OpenTelemetry, Sentry, SigNoz
+- **DevOps:** Docker (multi-stage), GitLab CI/CD
+- **Patterns:** Circuit Breaker, Feature Flags (FeatureHub)
+
+  </td>
+  </tr>
+</table>
+
+> *Source code is proprietary and not publicly available.*
+
+### Software Engineer Intern — Banzai (Thailand) Co., Ltd. | 2025
+
+- Developed company website (Company Profile) with user management, product catalog, and dashboard
+- Fieldwork with engineers — machinery installation, inspection, and maintenance at client sites
+
+### Assistant Computer Engineer Intern — V.VATTANA Solution Engineering | 2021
+
+- PLC programming for industrial machinery control
+- C++ programming for embedded board control
+- On-site computer maintenance support
 
 ---
 
@@ -73,16 +117,59 @@ I'm a **Computer Science graduate** from Rajamangala University of Technology Ta
 
 </div>
 
-> Enterprise-grade platform for student activity management with **AI-powered photo verification** achieving **83.1% accuracy**. Built with **150K+ lines of code**, deployed on **Windows Server** with **Cloudflare CDN**.
+> Full-stack platform for student activity management with photo verification (83.1% accuracy). Backend, web, mobile, and AI components deployed on Windows Server with Cloudflare CDN.
 
-| Resource | Link |
-|:---|:---|
-| 🌐 **Live System** | [busitplus.com](https://busitplus.com) |
-| 📖 **API Docs** | [api.busitplus.com/api-docs](https://api.busitplus.com/api-docs) |
-| 🔧 **Backend** | [Node.js API](https://github.com/teeprakorn1/busit_api_node.js) |
-| 💻 **Web** | [React.js](https://github.com/teeprakorn1/busit_web_react) |
-| 📱 **Mobile** | [Flutter](https://github.com/teeprakorn1/busit_flutter_project) |
-| 🤖 **AI Model** | [Python + TensorFlow](https://github.com/teeprakorn1/busit_ai_python) |
+## 🌐 Open Source
+
+### Aiyu Multi-Agent
+
+Open-source agent runtime for workflow automation, provider routing, and pluggable tools.
+
+<p>
+  <a href="https://www.npmjs.com/package/aiyu-multi-agent"><img src="https://img.shields.io/npm/v/aiyu-multi-agent?style=flat-square&color=CB3837&logo=npm" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/aiyu-multi-agent"><img src="https://img.shields.io/npm/dt/aiyu-multi-agent?style=flat-square&color=CB3837&logo=npm" alt="npm downloads"></a>
+  <a href="https://github.com/teeprakorn1/aiyu-multi-agent"><img src="https://img.shields.io/github/stars/teeprakorn1/aiyu-multi-agent?style=flat-square&color=58a6ff&logo=github" alt="GitHub stars"></a>
+</p>
+
+```bash
+npm install -g aiyu-multi-agent
+```
+
+| Feature | Detail |
+|---|---|
+| **Orchestration** | Multi-agent delegation, role-based routing, parallel execution |
+| **Provider Failover** | Automatic LLM failover chain (OpenAI, Claude, Groq, Ollama, Mock) |
+| **Extensibility** | Pluggable skill system, npm-based skill installer, dynamic module loading |
+| **Runtime** | Sandboxed tool execution, streaming responses, memory persistence |
+| **Protocols** | REST API, WebSocket streaming, MCP (Model Context Protocol) |
+| **Dashboard** | Next.js real-time monitoring (React, Tailwind, Zustand) |
+
+[GitHub](https://github.com/teeprakorn1/aiyu-multi-agent) · [npm](https://www.npmjs.com/package/aiyu-multi-agent)
+
+### md2pdf-th
+
+Markdown-to-PDF engine with Thai-aware typography, used as CLI, library, or NestJS module.
+
+<p>
+  <a href="https://www.npmjs.com/package/md2pdf-th"><img src="https://img.shields.io/npm/v/md2pdf-th?style=flat-square&color=CB3837&logo=npm" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/md2pdf-th"><img src="https://img.shields.io/npm/dt/md2pdf-th?style=flat-square&color=CB3837&logo=npm" alt="npm downloads"></a>
+  <a href="https://github.com/teeprakorn1/md2pdf-th"><img src="https://img.shields.io/github/stars/teeprakorn1/md2pdf-th?style=flat-square&color=58a6ff&logo=github" alt="GitHub stars"></a>
+</p>
+
+```bash
+npx md2pdf-th input.md -o output.pdf
+```
+
+| Feature | Detail |
+|---|---|
+| **Thai Support** | Auto-detect Thai (Unicode range), smart font fallback, mixed-language |
+| **Themes** | Light / Dark mode, 3 built-in templates (resume, report, invoice) |
+| **PDF Features** | TOC, cover page, watermark, merge, PDF metadata (pdf-lib) |
+| **Modes** | CLI, Library API (returns Buffer), NestJS module (DI/forRoot/forRootAsync) |
+| **Integrations** | Docker (Chromium + Thai fonts), GitHub Action, Web UI, Web preview server |
+| **Security** | HTML sanitization (XSS), auth token, rate limiting, localhost-only binding |
+
+[GitHub](https://github.com/teeprakorn1/md2pdf-th) · [npm](https://www.npmjs.com/package/md2pdf-th)
 
 ---
 
@@ -91,112 +178,112 @@ I'm a **Computer Science graduate** from Rajamangala University of Technology Ta
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117" alt="C++">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="SQL">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0d1117" alt="Dart">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117" alt="Java">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" alt="Java">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0d1117" alt="Kotlin">
 </p>
 
-### 🌐 Web Development
-
-| 🖥️ Frontend | ⚙️ Backend | 🗄️ Database | 🔐 Auth |
-|:---:|:---:|:---:|:---:|
-| React.js | Node.js | MySQL | JWT |
-| HTML5/CSS3 | Express.js | Redis | OAuth 2.0 |
-| Responsive Design | RESTful APIs | Firebase | Bcrypt |
-
-### 📱 Mobile Development
-
-| Framework | Platform | Key Features |
-|-----------|----------|--------------|
-| **Flutter** | iOS / Android / Web | Cross-platform, fast UI |
-| **React Native** | iOS / Android | Native performance |
-| **Kotlin** | Android Native | GPS, Push Notifications (FCM), Secure Storage |
-
-### 🤖 AI & Machine Learning
+### ⚙️ Backend & Microservices
 
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d1117" alt="Keras">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" alt="Claude">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0d1117" alt="NestJS">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" alt="Node.js">
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="gRPC">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" alt="Express.js">
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&labelColor=0d1117" alt="Bun">
 </p>
+
+| Category | Technologies |
+|----------|-------------|
+| **Frameworks** | NestJS, Express.js |
+| **Protocols** | gRPC + Protocol Buffers (unary, client-streaming, server-streaming), REST APIs, WebSocket |
+| **Databases** | MySQL, Redis, Firebase |
+| **File Storage** | S3 (multipart upload, presigned URLs), Local filesystem streaming |
+| **Auth** | JWT, OAuth 2.0, Keycloak, API key validation |
+| **API Docs** | Swagger / OpenAPI |
+
+### 🌐 Frontend & Mobile
+
+React.js · Flutter · Kotlin (Android) · HTML5/CSS3
+
+### 🤖 AI Runtime Engineering
 
 | Domain | Technologies & Techniques |
 |--------|---------------------------|
-| **LLM Integration** | OpenAI API, Claude API, Ollama (local LLMs), tool calling |
-| **Agent Patterns** | ReAct loop (Reason + Act), multi-agent orchestration |
-| **Deep Learning** | CNN, Image Classification, Ensemble Learning |
-| **Applications** | Deepfake detection, Predictive analytics, AI agent systems |
+| **LLM Integration** | OpenAI API, Claude API, Ollama (local LLMs), tool calling, streaming responses |
+| **Agent Runtime** | Multi-agent orchestration, provider failover, sandboxed tool execution |
+| **AI in Production** | TensorFlow (Capstone deepfake detection), model serving via REST |
 
-### ⚙️ System Architecture
+### 🏗️ Architecture & Patterns
 
 | Category | Skills |
 |----------|--------|
-| **CLI Frameworks** | Commander.js, inquirer, chalk, ora |
-| **Testing** | Unit tests, integration tests, compliance tests, test runners |
-| **Plugin System** | Dynamic module loading, permission system, npm package management |
-| **Resilience Patterns** | Circuit Breaker (CLOSED/OPEN/HALF_OPEN), Request Queue, Rate Limiting |
-| **Observability** | Distributed Tracing, Health Checks, Prometheus metrics, structured logging |
-| **Process Management** | Child process spawning, sandboxed execution, forked tool runners |
+| **Resilience** | Circuit Breaker, Request Queue, Rate Limiting, Feature Flags (FeatureHub) |
+| **Observability** | OpenTelemetry, Sentry, SigNoz, structured logging |
+| **Design Patterns** | Facade, Guard, Interceptor, DTO, Repository |
+| **Agent Runtime** | Multi-agent orchestration with provider failover, tool sandboxing, streaming responses, workflow automation |
+| **Testing** | Unit tests (Jest), integration tests, guard/validator spec tests, compliance tests, load testing, security-focused test cases (path traversal, bypass prevention) |
+| **Process Management** | Sandboxed execution, dynamic module loading, npm plugin system |
 
-### 🚀 DevOps & Tools
+### 🚀 DevOps & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0d1117" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker">
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0d1117" alt="GitLab CI/CD">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0d1117" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d1117" alt="NGINX">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" alt="AWS">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d1117" alt="Firebase">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d1117" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" alt="VSCode">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white&labelColor=0d1117" alt="Sentry">
 </p>
+
+| Category | Technologies |
+|----------|-------------|
+| **Containers** | Docker (multi-stage builds), Docker Compose |
+| **CI/CD** | GitLab CI/CD, GitHub Actions, npm publishing |
+| **Monitoring** | Sentry (error tracking + profiling), OpenTelemetry, SigNoz |
+| **Cloud** | AWS S3, MinIO/Garage (S3-compatible), Cloudflare CDN |
 
 ### 🔒 Security & Best Practices
 
 | Area | Skills |
 |------|--------|
-| **Secure Coding** | OWASP Top 10 compliance, input validation, path traversal protection |
-| **Network Security** | Kali Linux, penetration testing, vulnerability assessment |
-| **Safe Operations** | Atomic file writes, sandboxed execution, temp file cleanup |
-| **Protocols** | HTTPS/TLS, OAuth 2.0, JWT, CORS |
-| **Tools** | Helmet.js, Rate limiting, command injection prevention |
+| **Auth & Identity** | Multi-layered guards (API key + JWT), Keycloak JWKS verification, OAuth 2.0, session management |
+| **Data Protection** | PII masking in logs, SHA-256 integrity verification, atomic file writes with rollback |
+| **Input Validation** | Path traversal prevention, magic bytes file verification, request sanitization, prompt injection prevention |
+| **Infrastructure** | Sandboxed execution, command allowlist, resource exhaustion protection, rate limiting |
+| **Protocols** | HTTPS/TLS, gRPC with TLS, CORS, Kali Linux (penetration testing) |
 
 ---
 
-## 💼 Featured Projects
+## 🎓 Academic Projects
 
 <div align="center">
 
-| 🤖 **Aiyu Multi-Agent** | 🎓 **BusIT+ (Capstone)** | 🚀 **PM2.5 Monitor** |
+| 🎓 **BusIT+ (Capstone)** | 🚀 **PM2.5 Monitor** | 🔮 **DuangDee** |
 |:---:|:---:|:---:|
-| AI Agent Platform CLI | Student Activity + AI Deepfake | Air Quality + ML Forecast |
-| `Node.js` `Commander.js` | `Flutter` `React` `TensorFlow` | `Flutter` `Python` `ML` |
-| [🔗 Repo](https://github.com/teeprakorn1/aiyu-multi-agent) · [📦 npm](https://www.npmjs.com/package/aiyu-multi-agent) | [🔗 Backend](https://github.com/teeprakorn1/busit_api_node.js) · [💻 Web](https://github.com/teeprakorn1/busit_web_react) · [📱 Mobile](https://github.com/teeprakorn1/busit_flutter_project) · [🤖 AI](https://github.com/teeprakorn1/busit_ai_python) | [📱 Mobile](https://github.com/teeprakorn1/pm2_flutter_project) · [💻 Web](https://github.com/teeprakorn1/PM2_Web_React) · [🔧 API](https://github.com/teeprakorn1/PM2_API_Node.js) |
+| Student Activity + AI Deepfake | Air Quality + ML Forecast | Fortune-Telling Multi-Platform |
+| `Flutter` `React` `TensorFlow` | `Flutter` `Python` `ML` | `Kotlin` `React` `Firebase` |
+| [🔗 Backend](https://github.com/teeprakorn1/busit_api_node.js) · [💻 Web](https://github.com/teeprakorn1/busit_web_react) · [📱 Mobile](https://github.com/teeprakorn1/busit_flutter_project) · [🤖 AI](https://github.com/teeprakorn1/busit_ai_python) | [📱 Mobile](https://github.com/teeprakorn1/pm2_flutter_project) · [💻 Web](https://github.com/teeprakorn1/PM2_Web_React) · [🔧 API](https://github.com/teeprakorn1/PM2_API_Node.js) | [📱 Android](https://github.com/teeprakorn1/DuangDee_Android_Kotlin) · [💻 Web](https://github.com/teeprakorn1/DuangDee_Web_React) |
 
-| 🔮 **DuangDee** | 🧑‍⚕️ **Doctor Mgmt** | 🧠 **Depression Screen** |
+| 🧑‍⚕️ **Doctor Mgmt** | 🧠 **Depression Screen** | 🐟 **Betta E-Commerce** |
 |:---:|:---:|:---:|
-| Fortune-Telling Multi-Platform | Patient-Doctor Appointments | Mental Health AI Screening |
-| `Kotlin` `React` `Firebase` | `React` `Node.js` `MySQL` | `Kotlin` `Flask` `TensorFlow` |
-| [📱 Android](https://github.com/teeprakorn1/DuangDee_Android_Kotlin) · [💻 Web](https://github.com/teeprakorn1/DuangDee_Web_React) | [💻 Frontend](https://github.com/teeprakorn1/doctor_react) · [🔧 Backend](https://github.com/teeprakorn1/doctor_nodejs) | [📱 App](https://github.com/teeprakorn1/Depression_Android) · [🤖 API](https://github.com/teeprakorn1/Depression_API_Model) |
+| Patient-Doctor Appointments | Mental Health AI Screening | Thai Betta Fish Store |
+| `React` `Node.js` `MySQL` | `Kotlin` `Flask` `TensorFlow` | `ASP.NET` `SQL Server` |
+| [💻 Frontend](https://github.com/teeprakorn1/doctor_react) · [🔧 Backend](https://github.com/teeprakorn1/doctor_nodejs) | [📱 App](https://github.com/teeprakorn1/Depression_Android) · [🤖 API](https://github.com/teeprakorn1/Depression_API_Model) | [� Repo](https://github.com/teeprakorn1/BettaFish_Project) |
 
-| 🐟 **Betta E-Commerce** | 🛒 **Java POS** | 💧 **IoT Mini Farm** |
-|:---:|:---:|:---:|
-| Thai Betta Fish Store | Desktop POS (Educational) | Smart Farm Automation |
-| `ASP.NET` `SQL Server` | `Java Swing` `JDBC` | `ESP32` `C++` `Blynk` |
-| [🔗 Repo](https://github.com/teeprakorn1/BettaFish_Project) | [🔗 Repo](https://github.com/teeprakorn1/desktop_application_java_swing) | [🔗 Repo](https://github.com/teeprakorn1/Mini_Farm_Project) |
-
-| 🎮 **LED Matrix** | 🔄 **Infix→Postfix** |
-|:---:|:---:|
-| 32×8 Animated Display | Stack-Based Expression Parser |
-| `ESP8266` `C++` `MAX7219` | `Java` `Data Structures` |
-| [🔗 Repo](https://github.com/teeprakorn1/arduino_led_matrix) | [🔗 Repo](https://github.com/teeprakorn1/InfixToPostfix_Covertion) |
+|  **IoT Mini Farm** |
+|:---:|
+| Smart Farm Automation |
+| `ESP32` `C++` `Blynk` |
+| [🔗 Repo](https://github.com/teeprakorn1/Mini_Farm_Project) |
 
 </div>
 
@@ -206,35 +293,21 @@ I'm a **Computer Science graduate** from Rajamangala University of Technology Ta
 
 | 🏅 Achievement | 📅 Year | 🔗 Link |
 |:---:|:---|:---|
-| 🤖 **Open Source CLI Tool** — Aiyu Multi-Agent (80+ agents, npm published) | 2024–2025 | [GitHub](https://github.com/teeprakorn1/aiyu-multi-agent) · [npm](https://www.npmjs.com/package/aiyu-multi-agent) |
-| 🎓 **Capstone Project** — AI Deepfake Detection (83.1% accuracy) | 2024–2025 | [Live](https://busitplus.com) · [Backend](https://github.com/teeprakorn1/busit_api_node.js) |
+| 💼 **Backend Developer @ S11 Group PCL** — NestJS microservices (gRPC, S3, OTel) | 2026–Present | *Proprietary* |
+| 🤖 **Open Source** — Aiyu Multi-Agent (npm published) + md2pdf-th | 2024–Present | [GitHub](https://github.com/teeprakorn1/aiyu-multi-agent) · [npm](https://www.npmjs.com/package/aiyu-multi-agent) |
+| 🎓 **Capstone Project** — AI Deepfake Detection (83.1% accuracy) | 2024–2025 | [Backend](https://github.com/teeprakorn1/busit_api_node.js) |
 | 🔬 **Research Paper** — Image Forgery Detection (under review) | 2025 | — |
-| 💻 **10+ Production-Grade Projects** — Full-Stack, AI, IoT | 2022–2025 | See [Featured Projects](#-featured-projects) |
-| 🌐 **DevOps** — CI/CD, npm publishing, semantic versioning | 2024–2025 | GitHub Actions workflows |
+| 🥇 **Gold Medal — OOP Competition** — National level, Private Vocational Education Association of Thailand | 2021 | — |
 
 ---
 
-## 🎯 What I'm Working On
+## 🚀 Engineering Interests
 
-```text
-🤖  Aiyu Multi-Agent          → Adding new agents, skills, workflow automations
-🚀  Open Source Maintenance     → npm downloads, GitHub issues, community support
-🔬  Research                   → Finalizing paper on image forgery detection
-🌐  Node.js Advanced           → EventEmitter, Streams, performance optimization
-🔐  Security Hardening          → SAST/DAST integration, dependency scanning
-```
-
----
-
-## 🚀 Career Goals
-
-I'm passionate about building **intelligent, secure, and scalable software systems** that solve real-world problems. My goal is to work as a **Full-Stack Developer** or **AI/ML Engineer** in a dynamic environment where I can contribute to innovative projects while continuously learning cutting-edge technologies.
-
-**Open to opportunities in:**
-
-| 💻 Full-Stack | 🤖 AI/ML | ☁️ Cloud | 🔒 Security | 🔌 IoT |
-|:---:|:---:|:---:|:---:|:---:|
-| React · Node.js · Flutter | TensorFlow · Computer Vision | AWS · Azure · GCP | DevSecOps · PenTesting | ESP32 · Arduino · Embedded |
+- Backend systems & runtime architecture
+- Developer tooling & extensible platforms
+- Service resilience & observability
+- Secure execution environments
+- AI workflow orchestration
 
 ---
 
@@ -248,8 +321,9 @@ I'm passionate about building **intelligent, secure, and scalable software syste
 </pre>
 
 ### 💙 **Teepakorn Kumvong** · *ToeyAIYU*
+<br>
 
-*"Continuous learning and hands-on experience are the keys to growing as a developer."*
+<img src="https://github-readme-stats.vercel.app/api?username=teeprakorn1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="450">
 
 <br>
 
@@ -260,5 +334,7 @@ I'm passionate about building **intelligent, secure, and scalable software syste
 <a href="https://www.instagram.com/toey_aiyu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"></a>
 
 <img src="https://komarev.com/ghpvc/?username=teeprakorn1&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://img.shields.io/github/followers/teeprakorn1?style=flat-square&color=58a6ff&logo=github&label=Followers" alt="Followers">
+<img src="https://img.shields.io/github/stars/teeprakorn1?style=flat-square&color=58a6ff&logo=github&label=Stars" alt="Stars">
 
 </div>
