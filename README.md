@@ -323,7 +323,11 @@ React.js · Flutter · Kotlin (Android) · HTML5/CSS3
 ### 💙 **Teepakorn Kumvong** · *ToeyAIYU*
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=teeprakorn1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="450">
+<img src="https://streak-stats.demolab.com?user=teeprakorn1&theme=transparent&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=c9d1d9&sideNums=58a6ff&sideLabels=8b949e&dates=6e7681&stroke=30363d" alt="GitHub Streak" width="480">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=teeprakorn1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="600">
 
 <br>
 
