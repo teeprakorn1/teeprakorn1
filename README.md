@@ -62,7 +62,7 @@ I'm a **Computer Science graduate** from Rajamangala University of Technology Ta
 
 ### Backend Developer — S11 Group PCL | 2026–Present
 
-> **S11 Group PCL** (SET: S11) — A SET-listed motorcycle hire-purchase finance company operating across Bangkok, Central, Eastern, and Northeastern Thailand.
+> **S11 Group PCL** (SET: S11) — A SET-listed financial institution and a leading player in Thailand's motorcycle hire-purchase market, operating nationwide through an extensive dealer network.
 
 Building and maintaining **NestJS microservices** for internal business operations.
 
@@ -96,14 +96,52 @@ Building and maintaining **NestJS microservices** for internal business operatio
 
 ### Software Engineer Intern — Banzai (Thailand) Co., Ltd. | 2025
 
-- Developed company website (Company Profile) with user management, product catalog, and dashboard
-- Fieldwork with engineers — machinery installation, inspection, and maintenance at client sites
+> **Banzai (Thailand) Co., Ltd.** — A subsidiary of Banzai, Ltd. (Japan), a specialized trading company for automotive maintenance equipment, inspection tools, and after-sales services across Thailand.
+
+Built a **full-stack company website** (Company Profile) with React and Express.js, including user management, product catalog, dashboard, and a Markdown-based content system.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**What I Built**
+- Full-stack company website with **React** + **Express.js**
+- Authentication & authorization (**JWT** + **bcrypt** + cookie-based sessions)
+- File upload & image processing (**multer** memory storage + **sharp**)
+- Security hardening (**helmet**, **CORS**, **XSS prevention**, rate limiting)
+- Structured logging with **winston** (request, security, performance)
+- SEO optimization (**react-helmet-async** + **react-snap** static generation)
+- Markdown content management (**react-markdown** with sanitize)
+
+  </td>
+    <td valign="top" width="50%">
+
+**Tech Stack**
+- **Frontend:** React, react-router-dom, axios, react-helmet-async, react-snap
+- **Backend:** Express.js, JWT, bcrypt, cookie-parser
+- **Database:** MySQL
+- **File:** multer, sharp, file-type (magic bytes)
+- **Security:** helmet, CORS, XSS, rate-limiter, geoip-lite
+- **Logging:** winston, winston-daily-rotate-file
+- **Docs:** Swagger UI, yamljs
+- **Email:** nodemailer
+
+  </td>
+  </tr>
+</table>
+
+> *Fieldwork with engineers — machinery installation, inspection, and maintenance at client sites.*
 
 ### Assistant Computer Engineer Intern — V.VATTANA Solution Engineering | 2021
 
-- PLC programming for industrial machinery control
-- C++ programming for embedded board control
-- On-site computer maintenance support
+> **V.VATTANA Solution Engineering Co., Ltd.** — An engineering and manufacturing company based in Samut Prakan, specializing in industrial machinery design, PLC automation systems, and technical consulting for the manufacturing sector.
+
+First exposure to industrial IT and embedded systems during vocational studies. Worked under senior engineers to learn the basics of automation and hardware programming.
+
+- Assisted in **PLC programming** (ladder logic) for industrial machinery control systems
+- Learned **C++ embedded programming** for microcontroller board control
+- Supported **on-site computer maintenance** — hardware troubleshooting, OS installation, and network configuration at client factories
+- Gained foundational understanding of industrial automation workflows and hands-on technical problem-solving
 
 ---
 
